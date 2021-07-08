@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👨🏻‍🔬 Medical laboratory scientist learning to code
-👨🏻‍💻 My goal is to become a full stack software developer
-💡 Interested in health, science, education, and fitness technologies
-🌱 Learning python and javascript
-👀 Seeking collaboration on meaningful projects
-😄 He/Him/His
+👨🏻‍🔬 Medical laboratory scientist learning to code <br>
+👨🏻‍💻 My goal is to become a full stack software developer <br>
+💡 Interested in health, science, education, and fitness technologies <br>
+🌱 Learning python and javascript <br>
+👀 Seeking collaboration on meaningful projects <br>
+😄 He/Him/His <br>
 
 
