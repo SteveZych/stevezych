@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 👨🏻‍🔬 Medical laboratory scientist learning to code <br>
-👨🏻‍💻 My goal is to become a full stack software developer <br>
+👨🏻‍💻 My goal is to become a full stack software engineer <br>
 💡 Interested in health, science, education, and fitness technologies <br>
 🌱 Learning python and javascript <br>
 👀 Seeking collaboration on meaningful projects <br>
