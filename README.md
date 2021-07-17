@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 💡 Interested in health, science, education, and fitness technologies <br>
 🌱 Learning python and javascript <br>
 👀 Seeking collaboration on meaningful projects <br>
-😄 He/Him/His <br>
+😄 He/Him <br>
 
 
