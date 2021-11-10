@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 🌱 Learning python and javascript <br>
 👀 Seeking collaboration on meaningful projects <br>
 😄 He/Him <br>
-email: stevezych@gmail.com
+📩 stevezych@gmail.com
 
 
